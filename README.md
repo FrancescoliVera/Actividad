@@ -1,0 +1,2 @@
+# Actividad
+Trabajo de graficos.
